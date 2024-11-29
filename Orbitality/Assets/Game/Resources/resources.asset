@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 000291ef054e4871b9a0d6e4940f86bc, type: 3}
+  m_Name: resources
+  m_EditorClassIdentifier: 
+  planetDeathFx: {fileID: -7897625643166837923, guid: a49596ebf788acd4ab1281bffea444b1,
+    type: 3}
+  rocketExplosionFx: {fileID: -1767356217525394918, guid: 5332791ebce075d4a9e56f4581e7fb47,
+    type: 3}
+  hpBar: {fileID: 2409090876050800687, guid: 435ab356fae574b499382fc025b84051, type: 3}

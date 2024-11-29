@@ -1,0 +1,2 @@
+LoadableConfig 1
+StubTypeBasedDataFromConfig 2

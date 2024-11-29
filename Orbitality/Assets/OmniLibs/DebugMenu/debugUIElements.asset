@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3b481a60f2403db5011ddcf209b3e3, type: 3}
+  m_Name: debugUIElements
+  m_EditorClassIdentifier: 
+  boxer: {fileID: 575236667228007981, guid: 079522726bf607e46ab35f31c16af4d9, type: 3}
+  triCountner: {fileID: 6961820808754889308, guid: 762b99e704cf47c4982907f31c3e9ec3,
+    type: 3}
+  counter: {fileID: 7625470743251742111, guid: f1f931b071eb534418f46061c893c372, type: 3}
+  optionPrefab: {fileID: 224650746293353346, guid: 3203e729e6c556a45884f8146277d1ca,
+    type: 3}
+  dropdownPrefab: {fileID: 224094048472749924, guid: 6e1b692154bbec14aabe333e4989d9c5,
+    type: 3}
+  buttonPrefab: {fileID: 114691380026750980, guid: e2f5672be4920784aac1518edc814985,
+    type: 3}
+  stringInputPrefab: {fileID: 224931423600386516, guid: ed8d611010867d543ad615f36136c1f1,
+    type: 3}
+  togglePrefab: {fileID: 224321969263565984, guid: 2138902279402734b961721eff973cfc,
+    type: 3}
+  buttonTogglePrefab: {fileID: 224504402178463026, guid: 7e98b78079f8a0e4dbe870ecb8f099f8,
+    type: 3}
+  slider: {fileID: 224600921738102224, guid: 72adbd5774fedbb4eae02a36eabea9ac, type: 3}
+  delimiterPrefab: {fileID: 224164662008490748, guid: 14f4379dd8f2c0948b19965d6b92262b,
+    type: 3}
+  titlePrefab: {fileID: 224177703289269342, guid: 677b59238d9c7e14c9cd3742fe8c6abb,
+    type: 3}
+  debugWindow: {fileID: 196008021262132448, guid: c5729e6a8d45e7942911a69ebb03f104,
+    type: 3}
+  tab: {fileID: 114691380026750980, guid: 4b18e3ccc5cfd1e4ca9926cf31773f7a, type: 3}
+  scrollPrefab: {fileID: 114914546985617770, guid: 7b8defe4e26c9d64980d13634cfa6d23,
+    type: 3}

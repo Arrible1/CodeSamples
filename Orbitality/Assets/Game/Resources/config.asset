@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 744f5c9ce6a0453f91ef6e9629128c75, type: 3}
+  m_Name: config
+  m_EditorClassIdentifier: 
+  rockets:
+  - name: ShipKiller
+    startingSpeed: 3
+    acceleration: 0
+    damage: 7
+    cooldown: 2
+    gravityInfluence: 1.5
+    description: WASP\nFast and agile
+    invulTime: 1
+  - name: Steampunk
+    startingSpeed: 1.3
+    acceleration: 0.3
+    damage: 15
+    cooldown: 3
+    gravityInfluence: 0.3
+    description: HORNET\nSlow but deadly
+    invulTime: 1
+  - name: Capsule
+    startingSpeed: 2
+    acceleration: 0
+    damage: 15
+    cooldown: 2.5
+    gravityInfluence: -0.8
+    description: DRAGONFLY\nAntimatter surprise
+    invulTime: 1
+  minAiPlayers: 1
+  maxAiPlayers: 8

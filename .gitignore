@@ -1,0 +1,97 @@
+# ==================== #
+# Rifters ignored data #
+# ==================== #
+.gradle/
+Assets/GameTools/ConfigUploader/DevConfigs/
+Assets/GameTools/ConfigUploader/DevConfigs.meta
+Assets/GameTools/AssetBundles/CLIENT/Resources/AssetBundleMod.*
+SavedReadouts/
+LogsUtil settings.txt
+Replays/
+Replays.meta
+PrefabConfigs/
+player_settings
+local_game_settings
+local_player_model
+local_commands
+local_commands.bin
+battle_results
+battle_participation
+remote_player_*.txt
+remote_player_*.bin
+DownloadedLocalConfig
+Assets/Resources/gd.bytes
+Assets/Resources/gameData.asset
+Captures/
+Build_Demo/
+Build/
+Builds/*
+CustomizedConfig
+Assets/Scenes/Test_ effex.unity
+Bundles/
+Assets/PortalHunter/Battle/Config/LocalConfig.*
+Captures/
+ServerBuildingLog.txt
+Assets/GameTools/AssetBundles/Resources.meta
+LatestConfig
+LastConnection
+Logs/
+Packages/
+Assets/Game/External
+savedata
+
+# FX tests folder
+Assets/PortalHunter/_FX_TESTS/
+Assets/PortalHunter/_FX_TESTS.meta
+
+
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+JetBrains/
+JetBrains.meta
+ExportedObj/
+obj/
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.apk
+*.opensdf
+*.sdf
+*.DotSettings
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll
+.idea/
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+
+
+

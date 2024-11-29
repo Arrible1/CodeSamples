@@ -1,0 +1,3 @@
+﻿namespace ZergRush.Alive
+{
+}
